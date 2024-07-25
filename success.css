@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.hero{
+
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    background: radial-gradient(#254335,#191a1e);
+}
+.success{
+    position: relative;
+    border: 5px solid #fff;
+    margin: auto;
+    width: 30%;
+    padding: 10px;
+    margin-top: 20%;
+    background-color: #fff;
+    color: #45a049;
+    height: 200px;
+    padding: 50px;   
+}
+.successtitle{
+    padding-left: 35%;
+    line-height: 2;
+    font-weight: bold;
+}
+.successmsg{
+    padding-left: auto;
+    padding-right: auto;
+}
